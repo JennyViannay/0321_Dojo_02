@@ -1,4 +1,4 @@
-# DOJO_01 
+# DOJO_02 
 
 ## EXO 1. Compare
 
@@ -7,12 +7,16 @@
 Écrire une fonction qui ecrit:
 
 1 - "up" dans le cas ou le nombre de caractères de la chaine  passée en paramètre de la fonction est supérieur à 5<br>
+
 2 - "down" dans le cas ou le nombre de caractères de la chaine passée en paramètre de la fonction est inférieur à 5<br>
+
 3 - "upSmall" dans le cas ou le nombre de caractères de la chaine passée en paramètre de la fonction est supérieur à 5 et inférieur à 10<br>
+
 4 - "upBig" dans le cas ou le nombre de caractères de la chaine passée en paramètre de la fonction est supérieur à 5 et inférieur à 15<br>
+
 5 - La chaine dans tous les autres cas
 
-## EXO 2. Fizzbuzz (BONUS)
+## BONUS EXO 2. Fizzbuzz
 
 ### Consignes
 
